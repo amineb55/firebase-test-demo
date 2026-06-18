@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.androidbuild.firebasetest'
+    namespace 'om.androidbuild.firebasetest'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.androidbuild.firebasetest"
+        applicationId "om.androidbuild.firebasetest"
         minSdk 23
         targetSdk 34
         versionCode 1
